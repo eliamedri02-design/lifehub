@@ -2,7 +2,7 @@
   "name": "Life Hub",
   "short_name": "Life Hub",
   "description": "Your personal calendar, diary and habit tracker",
-  "start_url": "/",
+  "start_url": "/lifehub/",
   "display": "standalone",
   "background_color": "#0f0e0c",
   "theme_color": "#0f0e0c",
